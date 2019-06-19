@@ -1,2 +1,3 @@
 # hello-world
-first get hub prject
+first get hub project
+Trying gitme for the first time
